@@ -1,0 +1,16 @@
+.container{
+     margin: 30px;
+     background-color:darkgrey;
+     padding: 20px;
+}
+.card-body{
+     text-align: center;
+}
+.card-header{
+     text-align: center;
+}
+.card-title{
+     padding: 7px;
+     color:white;
+     background-color: black;
+}
